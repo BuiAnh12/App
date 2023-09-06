@@ -1,0 +1,100 @@
+C = 1
+Normal Accuracy: 97.64%
+F1 Score: 97.64%
+
+C = 2
+Normal Accuracy: 98.01%
+F1 Score: 98.01%
+
+C = 3
+Normal Accuracy: 98.17%
+F1 Score: 98.17%
+
+C = 4
+Normal Accuracy: 98.16%
+F1 Score: 98.16%
+
+C = 5
+Normal Accuracy: 98.18%
+F1 Score: 98.18%
+
+C = 6
+Normal Accuracy: 98.19%
+F1 Score: 98.19%
+
+C = 7
+Normal Accuracy: 98.19%
+F1 Score: 98.18%
+
+C = 8
+Normal Accuracy: 98.20%
+F1 Score: 98.20%
+
+C = 9
+Normal Accuracy: 98.21%
+F1 Score: 98.21%
+
+C = 10
+Normal Accuracy: 98.23%
+F1 Score: 98.23%
+
+C = 11
+Normal Accuracy: 98.23%
+F1 Score: 98.23%
+
+C = 12
+Normal Accuracy: 98.23%
+F1 Score: 98.23%
+
+C = 13
+Normal Accuracy: 98.24%
+F1 Score: 98.23%
+
+C = 14
+Normal Accuracy: 98.23%
+F1 Score: 98.23%
+
+
+C = 15
+Normal Accuracy: 98.23%
+F1 Score: 98.23%
+
+C = 16
+Normal Accuracy: 98.23%
+F1 Score: 98.23%
+
+C = 17
+Normal Accuracy: 98.24%
+F1 Score: 98.24%
+
+C = 18
+Normal Accuracy: 98.23%
+F1 Score: 98.23%
+
+C = 19
+Normal Accuracy: 98.23%
+F1 Score: 98.23%
+
+C = 20
+Normal Accuracy: 98.23%
+F1 Score: 98.23%
+
+C = 21
+Normal Accuracy: 98.24%
+F1 Score: 98.24%
+
+C = 22
+Normal Accuracy: 98.24%
+F1 Score: 98.24%
+
+C = 23
+Normal Accuracy: 98.24%
+F1 Score: 98.24%
+
+C = 24
+Normal Accuracy: 98.25%
+F1 Score: 98.25%
+
+C = 25
+Normal Accuracy: 98.24%
+F1 Score: 98.24%
